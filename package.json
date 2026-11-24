@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Full-Stack & AI Developer Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "threejs",
+    "gsap",
+    "fullstack",
+    "react"
+  ],
+  "author": "Shubham Ojha",
+  "license": "MIT"
+}
